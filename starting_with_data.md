@@ -14,6 +14,7 @@ SELECT visitnumber, visitid, visitstarttime, date, fullvisitorid, channelgroupin
   units_sold, pageviews, timeonsite, bounces, revenue, unitprice
 FROM duplicates
 WHERE dup > 1;
+
 Answer: 
 the rest of analytic DATA is 1 666 134
 
